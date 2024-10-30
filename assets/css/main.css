@@ -1,0 +1,8 @@
+.login-first-msg {
+    padding: 5px 10px 5px 30px;
+    border-radius: 3px;
+    margin: 0 0 15px;
+    font-size: .75rem;
+    border: 1px solid #f1f1f1;
+    background: url('../img/icon-lock.png') 7px center rgba(240,240,240,.3) no-repeat;
+}
